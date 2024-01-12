@@ -1,4 +1,4 @@
-# UtopianLabs
+# UtopiaLabs
 
 ![UtopianLabs Logo](url/to/logo.png)
 
