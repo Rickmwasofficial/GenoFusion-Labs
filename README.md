@@ -8,14 +8,11 @@ UtopianLabs is a cutting-edge bioinformatics company dedicated to leveraging tec
 
 ## Table of Contents
 
-- [About UtopianLabs](#utopianlabs)
+- [About UtopianLabs](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [Roadmap](#roadmap)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 
