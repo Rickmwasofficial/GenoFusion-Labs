@@ -40,9 +40,9 @@ UtopiaLabs is licensed under the MIT License.
    
 ## Getting Started
 
-To get started with UtopianLabs, follow these steps:
+To get started with UtopiaLabs, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/UtopianLabs/UtopianLabs.git
+   git clone https://github.com/UtopiaLabs/UtopiaLabs.git
 
