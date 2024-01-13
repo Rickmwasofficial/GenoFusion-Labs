@@ -4,11 +4,11 @@
 
 ## Overview
 
-UtopianLabs is a cutting-edge bioinformatics company dedicated to leveraging technology to advance personalized medicine and drive groundbreaking research in the field of diseases, with a primary focus on cancer. Our mission is to revolutionize healthcare by developing innovative solutions that tailor treatments to individual patients and contribute to a deeper understanding of complex diseases.
+UtopiaLabs is a cutting-edge bioinformatics company dedicated to leveraging technology to advance personalized medicine and drive groundbreaking research in the field of diseases, with a primary focus on cancer. Our mission is to revolutionize healthcare by developing innovative solutions that tailor treatments to individual patients and contribute to a deeper understanding of complex diseases.
 
 ## Table of Contents
 
-- [About UtopianLabs](#overview)
+- [About UtopiaLabs](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -24,11 +24,11 @@ UtopianLabs is a cutting-edge bioinformatics company dedicated to leveraging tec
 
 - **Innovative Technologies:** Employ cutting-edge technologies, including machine learning, genomics, and data analytics, to drive innovation in the field of bioinformatics.
 
-# Contributing to UtopianLabs
-
+# Contributing to UtopiaLabs
 Thank you for considering contributing to UtopianLabs! We welcome your contributions to improve and grow our projects.
+
 ## LICENSE
-UtopianLabs is licensed under the MIT License.
+UtopiaLabs is licensed under the MIT License.
 
 ## How to Contribute
 
