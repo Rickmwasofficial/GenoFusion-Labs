@@ -1,7 +1,5 @@
 # UtopiaLabs
 
-![UtopiaLabs Logo](Blue Minimalist DNA Chain Illustration Laboratory Logo.png)
-
 ## Overview
 
 UtopiaLabs is a cutting-edge bioinformatics company dedicated to leveraging technology to advance personalized medicine and drive groundbreaking research in the field of diseases, with a primary focus on cancer. Our mission is to revolutionize healthcare by developing innovative solutions that tailor treatments to individual patients and contribute to a deeper understanding of complex diseases.
