@@ -1,6 +1,6 @@
 # UtopiaLabs
 
-![UtopiaLabs Logo](url/to/logo.png)
+![UtopiaLabs Logo](Blue Minimalist DNA Chain Illustration Laboratory Logo.png)
 
 ## Overview
 
