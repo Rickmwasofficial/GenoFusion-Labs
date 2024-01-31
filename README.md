@@ -1,12 +1,12 @@
-# UtopiaLabs
+# GenoFusion Labs 
 
 ## Overview
 
-UtopiaLabs is a cutting-edge bioinformatics company dedicated to leveraging technology to advance personalized medicine and drive groundbreaking research in the field of diseases, with a primary focus on cancer. Our mission is to revolutionize healthcare by developing innovative solutions that tailor treatments to individual patients and contribute to a deeper understanding of complex diseases.
+GenoFusion Labs is a cutting-edge bioinformatics company dedicated to leveraging technology to advance personalized medicine and drive groundbreaking research in the field of diseases, with a primary focus on cancer. Our mission is to revolutionize healthcare by developing innovative solutions that tailor treatments to individual patients and contribute to a deeper understanding of complex diseases.
 
 ## Table of Contents
 
-- [About UtopiaLabs](#overview)
+- [About GenoFusion Labs](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -22,11 +22,11 @@ UtopiaLabs is a cutting-edge bioinformatics company dedicated to leveraging tech
 
 - **Innovative Technologies:** Employ cutting-edge technologies, including machine learning, genomics, and data analytics, to drive innovation in the field of bioinformatics.
 
-# Contributing to UtopiaLabs
-Thank you for considering contributing to UtopianLabs! We welcome your contributions to improve and grow our projects.
+# Contributing to GenoFusion Labs 
+Thank you for considering contributing to GenoFusion Labs! We welcome your contributions to improve and grow our projects.
 
 ## LICENSE
-UtopiaLabs is licensed under the MIT License.
+GenoFusion Labs is licensed under the MIT License.
 
 ## How to Contribute
 
@@ -38,9 +38,9 @@ UtopiaLabs is licensed under the MIT License.
    
 ## Getting Started
 
-To get started with UtopiaLabs, follow these steps:
+To get started with GenoFusion Labs, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/UtopiaLabs/UtopiaLabs.git
+   git clone https://github.com/GenoFusion-Labs/GenoFusion-Labs.git
 
